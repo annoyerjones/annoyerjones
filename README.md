@@ -1,16 +1,13 @@
-## Hi there 👋
+Christopher Ricapito		cjricapito@my.waketech.edu
 
-<!--
-**annoyerjones/annoyerjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is for school purposes only.
 
-Here are some ideas to get you started:
+I create a repository to store school assignments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Steps I took to clone the repository I created on GitHub:
+
+1. Downloaded and installed the GitHub desktop app
+2. Signed into my GitHub account.
+3. Selected "Clone repository" and selected the repository I created.
+4. Cloned repository and verified success by using the file explorer and checking for the ReadMe file.
+
