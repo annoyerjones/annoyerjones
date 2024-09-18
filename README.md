@@ -11,3 +11,9 @@ Steps I took to clone the repository I created on GitHub:
 3. Selected "Clone repository" and selected the repository I created.
 4. Cloned repository and verified success by using the file explorer and checking for the ReadMe file.
 
+# About Me
+## Hobbies
+	I am interested in RC cars, Woodworking, movies, and sports
+## Favorite Websites
+	* [ESPN](www.espn.com) - This is my go to sports website.
+	* [RC Cars](rcplanet.com0 - This is one of my RC car websites.
