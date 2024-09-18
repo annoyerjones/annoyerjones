@@ -13,7 +13,7 @@ Steps I took to clone the repository I created on GitHub:
 
 # About Me
 ## Hobbies
-	My interests include Computers, RC cars, woodworking, movies, and sports.
+My interests include _Computers, RC cars, woodworking, movies, and sports_.
 ## Favorite Websites
-	* [ESPN](www.espn.com)  - This is my go to sports website.
-	* [RC Cars](rcplanet.com)  - This is one of my RC car websites.
+* [ESPN.com](www.espn.com)  - This is my go to sports website.
+* [RCPlanet.com](rcplanet.com)  - This is one of my RC car websites.
