@@ -12,8 +12,10 @@ Steps I took to clone the repository I created on GitHub:
 4. Cloned repository and verified success by using the file explorer and checking for the ReadMe file.
 
 # About Me
-## Hobbies
-My interests include _Computers, RC cars, woodworking, movies, and sports_.
-## Favorite Websites
+## My Interests
+>My interests include _Computers, RC cars, woodworking, movies, and sports_.
+## My Favorite Websites
 * [ESPN.com](www.espn.com)  - This is my go to sports website.
-* [RCPlanet.com](rcplanet.com)  - This is one of my RC car websites.
+* [RCPlanet.com](www.rcplanet.com)  - This is one of my RC car websites.
+* [IMDB.com](www.IMDB.com) - This is my favorite website for movies
+  
