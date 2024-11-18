@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple HTML and Python Example</title>
+  <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+  <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+</head>
+<body>
+<h1>Simple HTML and Python Example</h1>
+
+<input id="inputNumber1" type="number" placeholder="Enter a number">
+<button id="submitButton1">Submit</button>
+<div id="output">The output will appear here...</div>
+
+<input id="inputNumber2" type="number" placeholder="Enter a number">
+<button id="submitButton2">Submit</button>
+<div id="output2">Please enter another number to add to your previous number.</div>
+<div id="output_total" style="font-size: 16pt; font-weight: bold;">Your answer is:</div>
+
+<py-script>
+def process_input1(event=None):
+  input_value = Element('inputNumber1').value
+  Element('output').write(f"You entered: {input_value}")
+ 
+def process_input2(event=None): 
+  input_value1 = int(Element('inputNumber1').value)
+  input_value2 = int(Element('inputNumber2').value)
+  
+  Element('output2').write(f"You entered: {input_value2}")
+  
+  Element('output_total').write(f"Your total is: {input_value1 + input_value2}")
+
+# Assign the function to the button's onclick event after PyScript is ready
+from js import document
+document.getElementById('submitButton1').onclick = process_input1
+document.getElementById('submitButton2').onclick = process_input2
+</py-script>
+</body>
+</html>
